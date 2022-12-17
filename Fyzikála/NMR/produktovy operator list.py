@@ -9,10 +9,10 @@ konstanta_y.imag
 array = ([0.5])
 
 #Jednotlivé operátory
-jednotkovy = np.array([[1,0],
+u = np.array([[1,0],
                        [0,1]])
 
-pul = np.array([[1,0],
+h = np.array([[1,0],
                 [0,1]])
 
 x = np.array([[0,1],
@@ -24,7 +24,7 @@ y = np.array([[0,1],
 z = np.array([[1,0],
               [0,-1]])
 
-print("Operatory: \n jednotkovy = 1^ \n pul = 1/2 1^ \n x = Ix^ \n y = Iy^ \n z = Iz^")
+print("Operatory: \n u = 1^ \n h = 1/2 1^ \n x = Ix^ \n y = Iy^ \n z = Iz^")
 
 #Program počítá až čtyři operátory
 pocet_operatoru = int(input("Kolik operátorů budeš násobit? "))
