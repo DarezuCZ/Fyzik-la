@@ -1,0 +1,1585 @@
+	
+anthracen	
+bifenyl	
+cykloheptatrien	
+cyklooktadien, 1,5-	
+cyklookten	
+dekalin	
+dicyklopentadien	"dicyclopentadiene dimer
+(CpH)2"
+ethynyltrichlortoluen, 4-	
+fenanthren	
+fenylpropyn, 1,1-	
+fluoren	
+hexamethylbenzen	
+mesitylen	
+methylbifenyl, 4-	
+naftalen	
+norbornadien	
+oktyn, 1-	okt-1-yn
+stilben, (E)	
+stilben, (Z)	
+xylen m-	
+xylen p-	
+12-crown-4	
+dibenzo-18-crown-6	
+dibutylether	
+(dimethylamino)benzaldehyd, 4-	dimethylaminobenzaldehyd, 4-
+acetofenon	
+acetylaceton	
+anisaldehyd	
+benzaldehyd	
+benzylidenaceton	
+cyklohexanon	cyclohexanone
+cyklopentanon	
+dibenzosuberon	
+dibenzylidenaceton	
+dichlordikyanbenzochynon ,2,3-, 5,6-, p	
+fluorbenzaldehyd, 4-	
+ftaldialdehyd, o-	
+glutaralaldehyd, 50% roztok H2O	
+hexandion, 2,5-	
+chalkon, trans-	benzylidenacetofenon
+chlorchalkon, 4-	
+chlorchalkon, 4'-	
+kafr	
+kyanobenzaldehyd, 4-	4-formylbenzonitril
+methoxychalkon, 4-	
+methoxychalkon, 4'-	
+methylacetofenon, 4'-	
+methylchalkon, 4-	(E)-1-Phenyl-3-(p-tolyl)prop-2-en-1-one
+methylchalkon, 4´-	
+N,N-dimethylformamid-diethylacetal	
+nitrobenzaldehyd, 2-	
+octanal	
+paraformaldehyd	"polymerní formaldehyd
+(CH2O)X"
+salicylaldehyd	
+skořicový aldehyd	
+tetramethyldiaminobenzofenon	
+tolylaldehyd, p-	p-tolualdehyd
+valeraldehyd	
+[(Et3N)2B12H12]	
+borax	
+borohydrid sodný	
+Cs[Co(C2B9H11)2]	
+kyselina 2,4 - difluorbenzenboronová	
+kyselina 4 - kyanobenzen boronová	"kyselina 4 - kyanobenzen boritá
+4-cyanophenylboronic acid"
+kyselina boritá	kyselina trihydrogenboritá
+kyselina butylboronová	
+kyselina fenylboronová	
+kyselina fenylethyl boronová	phenethylboronic acid
+kyselina methylboronová	
+kyselina trans - 2 - fenylvinylboronová	
+dikarboran, o-	o - C2H10B12
+trimethyl borát	trimethyl borate
+bromnitrobenzen, 1,4-	
+chlornitrobenzen, 1,4-	
+1-brom-2-iodbenzen	
+brombenzonitril, 4-	
+4 - chlor benzonitril	
+4-jodtoluen	"4-iodtoluen
+"
+allylbromid	
+allylchlorid	
+benzylbromid	
+benzylchlorid	
+bis(2-chlorethyl)amin, HCl	
+bromdifenylmethan	
+bromacetofenon, 4-	
+bromadamantan, 1-	
+bromanizol, 4-	"4-bromanisol
+4-bromanizol"
+brombenzen	
+brombifenyl, 4-	
+bromethanol, 2-	
+brom-chlorbenzen, 1,4-	
+brommethyl-methylether	
+brom-N,N-dimethylanilin, 4-	
+bromnaftalen, 1-	
+brom-tert-butylbenzen, 1,4-	
+bromtoluen, 2-	
+bromtoluen, 3-	
+bromtoluen, 4-	
+brom-trifluortoluene, 4-, alfa, alfa, alfa	
+butylbromid	
+cyanurfluorid	
+cyklohexylbromid	
+dibrom(tetrafluor)ethan, 1,2-	
+dibrom(tetrachlor)ethan, 1,2-	
+dibromethan, 1,2-	
+dibrommethan	
+dibrompentan, 1,5-	
+dibrompropan, 1,3-	
+dijodmethan	
+ethylbromid	
+chloracetofenon, 4-	
+chloranizol, 4-	"4-chloranisol
+4-chloranizol"
+chlorethylamin, HCl, 2-	
+chlor-jodbenzen, 1,4-	
+chlortoluen, 4-	
+isopropylbromid	
+jodbenzen	
+methallyl chlorid	
+jodmethan	methyljodid
+propylbromid	
+tetrabromethan 1,1,2,2,	
+tetrabrommethan	
+tribrommethan	
+trifenylmethylchlorid	
+(methoxymethyl)trifenylfosfonium chlorid	
+benzyl(trimethyl)amonium hydroxid	
+bis(difenylfosfino)ethan, 1,2-	
+bis(difenylfosfino)methan	
+bis(difenylfosfino)propan, 1,3-	
+bis(ethoxibifenyl)methyl fosfonát	
+bis-(trifenylfosforanyliden)amonium chlorid	
+boran-difenylfosfin komplex	
+bromid antimonitý	
+cetyltrimethylamonium-bromid	"cetyltrimethylammonium-bromid
+cetyl(trimethyl)amonium-bromid"
+diethyl benzylfosfonát	
+diethyl ethylfosfonát	
+diethyl chlorfosfát	"diethyl chlorofosfát
+diethyl chlorophosphate"
+diethyl(2-oxo-2-fenylethyl)fosfonát	
+diethyl(2-oxopropyl)fosfonát	
+difenylethylfosfin	
+difenylfosfin methylamin benzen	2-(diphenylphosphino)-benzenemethanamine
+difenylfosfit	
+dichlor(fenyl)fosfin	"dichlorophenyl phosphine
+dichlorfenylfosfin"
+dimethyl(2-oxopropyl)fosfonát	
+ditercbutyl chlorfosfin	
+ethyl(trifenyl)fosfonium bromid	
+fenylfosforečnan sodný	
+fosfor (bílý)	
+chlor di(orthotolyl)fosfin	
+chlor(dicyklohexyl)fosfin	Chlorodicyclohexyl-phosphine
+chlordifenylfosfin	
+chlordiisopropyl fosfin	
+chlorid antimonitý	antimony(III) chloride
+chlorid-oxid fosforečný	
+chlormethyl trifenylfosfonium chlorid	
+jodid fosforitý	"phosphorus trijodatus
+phosphorus triiodatus"
+methyl(trifenyl)fosfonium bromid	
+sulfid fosforečný	
+tetrabutylamonium trihydrogen fosfát	
+tetrabutylamonium acetát	
+tetrabutylamonium chlorid trihydrát	
+tetrabutylamonium iodid	
+tetraethylamonium bromid	
+tetraethylamonium iodid	
+tetrafenylarsonium chlorid	tetraphenylarsonium chloride hydrate
+tetrafenylfosfonium bromid	
+tetramethylamonium bromid	
+tetramethylamonium chlorid	
+tetramethylamonium iodid	
+tri(2-furyl)fosfin	
+tri(2-tolyl)fosfin	
+tributylfosfin	
+tricyklohexylfosfin	tricyclohexylphosphine
+triethyl fosfonoacetát	
+triethylfosfit	
+trifenylarsin	triphenylarsine
+trifenylfosfin	
+trifenylfosfinoxid	
+trifenylfosfit	
+trifenylstiban	triphenylantimony(III)
+trimethoxyfosfin	trimethylfosfit
+acetamid	
+akrylamid	"amid kyseliny akrylové
+acrylamide"
+akrylonitril	
+anhydrid kys. octové	acetanhydrid
+anhydrid kyseliny trifluoroctové	trifluoracetanhydrid
+anthranilamid	2-aminobenzamid
+benzonitril	
+brombenzonitril, 2-	
+bromsukcinimid, N-	
+butyl acetát	
+butyl bromacetát, t-	
+butylcinnamate, n-	
+butylkyanid, t-	pivalonitril
+butyrolakton	
+diethyl malonát	
+diethyl oxalát	
+dimethyl fumarát	
+dimethyl maleinát	dimethyl maleate
+dimethyl malonát	
+dimethyl sukcinát	dimethylester kyseliny jantarové
+di-terc-butyl dikarbonát	Boc-anhydrid
+di-terc-butyl malonát	
+ethyl acetoacetát	acetooctan etylnatý
+ethyl akrylát	
+ethyl bromacetát	
+fenylbenzonitril, 4-	
+ftalanhydrid	
+ftalimid	
+chloracetonitril	
+maleinanhydrid	
+methyl akrylát	
+methyl brombenzoát, 4-	
+methyl cinnamate	methylester skořicové kyseliny
+methylacetamid, N-	
+methylformanilid, N-	
+propionitril	
+sukcinanhydrid	anhydrid kys. jantarové
+sukcinimid	
+triethyl otrhoformiát	
+trimethyl orthoformiát	trimethyl orthoformate
+vinyl acetát	
+1,1-difenyl-2-propyn-1-ol	
+allylalkohol	
+amylalkohol, n-	pentanol
+benzylalkohol	
+borneol	bornylalkohol
+but-2-en-1,4-diol, cis-	
+butandiol, 1,3-	
+butandiol, 1,4-	
+butenol, 3,2-	
+butylalkohol, iso-	
+butylalkohol, t-	
+cetylalkohol	
+cinnamylalkohol	3-fenyl-2-propen-1-ol
+cyklohexanol	cyclohexanol
+cyklohex-2-en-1-ol	
+diaceton-d-glukóza	
+ethylenglykol	"ethan-1,2-diol
+1,2-ethandiol"
+fenol	
+fluoroglucin	"phloroglucinol
+1,3,5-trihydroxybenzen"
+geraniol	trans-3,7-dimethyl-2,6-oktadien-1-ol
+hydrochinon	"hydroquinone
+1,4-benzendiol"
+hydroxybenzotriazol	HOBt
+kyselina pikrová	"2,4,6-trinitrofenol
+TNP
+picric acid"
+menthol	mentol
+naftol, 1-	
+nitrofenol, 4-	
+pentanol	amylalkohol
+propargylalkohol	2-propyn-1-ol
+resorcinol	benzen-1,3-diol
+thymol	
+triethylenglykol	
+trifluorethanol, 2,2,2-	
+vinylbenzylalkohol	
+(fenyl)ethylamin, 1-(R)	R-methylbenzylamin
+(fenyl)ethylamin, 1-(S)	S-methylbenzylamin
+1,8-diaminonaftalen	1,8-diaminonaphtalene
+2 - kyanoguanidin	dikyandiamin
+2-amino-2-methyl-1-propanol	
+4-methoxyfenylisokyanát	
+4-nitrofenylisothiokyanát	
+amino(difenyl)methan	N-methyldiphenylamin
+aminoadamantan, 1- HCl	adamantanamin hydrochlorid
+aminoethanol, 2-	ethanolamin
+aminoguanidin.H2CO3	
+aminoguanidin.H2SO4.H2O	
+benzyl(dimethyl)amin	
+benzylamin	
+benzylmočovina	
+butylamin	aminobutan
+butylamin, t-	
+cyklohexylisokyanát	
+DCC	dicyklohexylkarbodiimid
+diaminopropan, 1,3-	
+dibenzylamin	
+dicyklohexylamin	
+diethanolamin	
+diethylamin	
+diethylentriamin	
+diethylkarbonát	
+diisopropylamin	
+dimethylamin HCl	
+dimethylamin roztok	Dimethylamine
+ethylendiaminoctová kyselina	
+ethylisokyanát	Ethyl isocyanate
+fenylisokyanát	
+fenylisothiokyanát	
+fenylmočovina	
+glukosamin hydrochlorid D+	
+guanidin.H2CO3	
+hexamethylentetramin	HMTA
+hydrazin	
+hydrazin hydrát	
+hydrazin hydrát roztok	
+hydrazin.2HCl	
+hydrazin.H2SO4	
+hydroxylamin.H2SO4	
+hydroxylamin.HCl	
+isopropylamin	
+methylamin (roztok)	monomethylamine
+methylmočovina	methylurea
+močovina	"urea
+carbamide"
+N,N-diethylethylendiamin	
+oxo bis(ethylamin) dihydrochlorid, 2,2'	
+propylamin	
+propylenkarbonát	
+p-tolylisokyanát	
+thiomočovina	
+TMEDA	tetramethylethylendiamin
+triethanolamin	
+triethylamin	
+trimethylamin N-oxid dihydrát	Me3NO 2H2O
+tris - (2 aminoethyl) amin	TAEA
+tris (hydroxymethyl) methylamin	tris(hydroxymethyl) aminomethan
+urethan	ethylester kyseliny karbamové
+(difenylfosfino)anilin, 2-	
+(dimethylamino)pyridin, 4-	dmap
+1,8 - diaza bicyklo [5,4,0] undec - 7 - en (1,5 - 5)	"DBU
+Diazabicycloundecene"
+1H-benzotriazol	
+5 - brompyridin 2- karboxylová kyselina	
+akridin	acridin
+aminopyridin, 2-	
+aminopyridin, 3-	
+aminopyridin, 4-	
+anilin	
+anisidin, 4-	methoxyanilin
+anthranilamid	2-Aminobenzamide
+azobenzen	
+bipyridyl	
+bromanilin, 2-	
+bromanilin, 4-	
+brompyridin, 2-	
+brompyridin, 3-	
+brompyridin HCl, 4-	
+difenylamin	
+ethylanilin	
+fenanthrolin, o-	
+fenylendiamin, o-	
+fenylhydrazin	
+imidazol	
+jodanilin, 2-	
+jodanilin, 4-	
+kyanopyridin, 2-	
+kyanopyridin, 3-	
+kyanopyridin, 4-	
+methylmorfolin-N-oxid	
+morfolin	morpholine
+nitroanilin, 2-	
+nitroanilin, 3-	
+nitroanilin, 4-	
+nitrobenzen	
+picolin, 2-	
+picolylamin, 2-	aminomethylpyridin
+picolylamin, 3-	
+picolylamin, 4-	
+piperazin	
+piperidin	
+pyrazin	
+pyridin	
+pyridin-2-karboxaldehyd	
+toluidin, 2-	
+Chelaton 1	
+Chelaton 2	
+Chelaton 3	
+kyselina adamantankarboxylová	
+kyselina adipová	
+kyselina aminobenzoová, 2-	
+kyselina aminobenzoová, 4-	
+kyselina benzoová	benzoic acid
+kyselina bromfenyloctová, 4-	4-bromophenylacetic acid
+kyselina bromundekanová, 11-	
+kyselina chloroctová	
+kyselina ceretová	
+kyselina citronová	
+kyselina dibenzoyl vinná, D-	
+kyselina dibenzoyl vinná, L-	
+kyselina fenyloctová	
+kyselina ftalová	
+kyselina fumarová	
+kyselina glutarová	
+kyselina glykolová	
+kyselina isoftalová	
+kyselina jablečná, L-	
+kyselina jantarová	
+kyselina jodbenzoová, 2-	
+kyselina jodoctová	
+kafrosulfonová kyselina, (1S)-(+)	
+kyselina krotonová	crotonic acid
+kyselina laurová	
+kyselina maleinová	
+kyselina malonová	
+kyselina palmitová	
+kyselina propionová	
+kyselina pivalová	
+kyselina salicylová	
+kyselina skořicová	
+kyselina stearová	
+kyselina šťavelová	
+kyselina tereftalová	
+kyselina trichloroctová	
+kyselina trifluoroctová	
+kyselina vinná, L-	
+kyselina oxalová	
+kyselina brombenzoová, 4-	
+4,4'-dimethyl-2,2'-bipyridyl	
+alizarin	
+arsenazo I	
+benzidin	
+benzidin HCl	
+benzoinoxim, alfa-	
+benzopurpurin 4B	
+beta-NO-alfa-naftol	
+bipyridyl	
+bismuthiol I	
+calcein	
+čerň eriochromová PT	
+čerň sudanová B	
+červeň Kongo	
+červeň naftolová	
+červeň neutrální	
+diacetylmonoxim	
+diethyldithiokarbamidan sodný (Kupral)	
+difenylkarbazid	
+difenylkarbazon	
+dikupral	
+dikyandiamid	2-kyanoguanidin
+dimethylaminoazobenzen	
+dimethylaminobenzylidenrhodanin	
+dimethylglyoxim	
+dinitrofenylhydrazin, 2,4-	
+dithizon	
+fenanthrolin, o-	
+fenanthrolin, o-, HCl	
+fenolftalein	
+fenosafranin	
+ferroin 1/40 M	
+fluorescein	
+fluorexon	
+fosfomolybdenová kyselina	
+hydroxychinolin, 8-	
+chloralhydrát	
+chromotropová kyselina, Na2	
+indigo	
+indigocarmin	
+isatin	
+kalkonalid	
+kupferron	
+kyselina 1-amino-2-naftol-4-sulfonová	
+kyselina fenylarseničná	
+kyselina sulfosalicylová	
+magneson II	
+methyloranž	
+methylová červeň	červeň methylová
+Michlerův keton	
+modř bromthymolová	
+modř methylenová	
+modř methylxylenolová	
+modř thymolová	
+modř variaminová	
+morin	
+murexid	
+narkotin HCl	
+neokuproin	
+ninhydrin	
+nitron	
+nitroprussid sodný	
+nitroso-alfa-naftol, beta-	
+nitroso-R-sůl	
+oranž xylenolová	
+oranž xylenová	
+palladon	
+PAR	
+pyridyl-2-azonaftol (PAN)	
+rhodamin B	
+rubeanvodík	
+salicylaldoxim	
+tetrafenylboritan sodný	
+thiosemikarbazid	
+thorin I	
+thymolftalein	
+thymolftalexon	
+violeť krystalová	
+violeť pyrokatechinová	
+zeleň bromkresolová	
+zeleň naftolová	
+žluť alizarinová	
+norefedrin, L- (1R,2S)	Norephedrine
+difenyl-L-prolinol	
+Diazald	
+fluorid boritý diethyletherát	Boron trifluoride diethyl etherate
+styren	Styrene
+triethyloxonium tetrafluoroborát	Triethyloxonium tetrafluoroborate
+tris(dimethylamino)fosfin	tris(dimethylamino)phosphine
+aceton deuterovaný	
+acetonitril deuterovaný	
+aminomethyl butanol	
+cinnamaldehyd, trans	trans-Cinnamaldehyde
+chloroform deuterovaný	
+pentan	
+trans-1,3-difenyl-2-propen-1-ol	trans-1,3-Diphenyl-2-propen-1-ol 
+(triisopropylsilyl)acetylen	
+Ethyl propiolate	ethylester kyseliny propiolové
+pentamethylcyklopentadien	
+dimethylacetylen dikarboxylát	Dimethyl acetylenedicarboxylate
+diazabicyklo[2.2.2]oktan, 1,4-	DABCO
+Oxalyl chlorid	
+diethylzinek	
+diisobutylaluminium hydrid	
+heptin, 1-	heptyn
+chlordicyklohexyl fosfin	
+trimethylaluminium	2 M solution in Hexan
+BSA	
+(3-brompropyl)trimethoxysilan	(3-Bromopropyl)trimethoxysilane
+EDC	
+(1R)-menthyl 4-tolylsulfinát, S-	
+bromid amonný	
+dusičnan amonný	
+fluorid amonný	
+hexafluorofosforečnan amonný	
+hydrogenfosforečnan amonný	
+chlorid amonný	
+chloristan amonný	
+octan amonný	
+peroxodisíran amonný	Ammonium persulfate
+síran amonný	
+šťavelan amonný monohydrát	
+thiokyanatan amonný	
+uhličitan amonný	
+bromid lithný	
+dusičnan lithný	
+fluorid lithný	
+hydroxid lithný monohydrát	
+chlorid lithný	
+chloristan lithný trihydrát	
+jodid lithný	
+octan lithný	
+síran lithný	
+tetrafluoroboritan lithný	
+uhličitan lithný	
+acetylacetonát sodný monohydrát	
+azid sodný	
+bromid sodný	
+citronan sodný dihydrát	
+dihydrogenfosforečnan sodný monohydrát	
+disiřičitan sodný	pyrosiřičitan sodný
+dithionan sodný dihydrát	Na2S2O6 2H2O
+dithioničitan sodný	
+dusičnan sodný	
+dusitan sodný	
+fluorid sodný	
+fosfornan sodný	
+hydrogenfosforečnan sodný dodekahydrát	
+hydrogensíran sodný monohydrát	
+hydrogenuhličitan sodný	
+hydroxid sodný	
+chlorečnan sodný	
+chlorid sodný	
+chloristan sodný monohydrát	
+jodičnan sodný	
+kyanatan sodný	
+nitrid sodný	
+octan sodný	
+octan sodný trihydrát	
+síran sodný	
+siřičitan sodný heptahydrát	
+šťavelan sodný	
+tetraboritan disodný dekahydrát	
+tetrafluoroboritan sodný	
+thiokyanatan sodný dihydrát	
+thiosíran sodný pentahydrát	
+trihydrogenjodistan disodný	
+uhličitan sodný	
+vinan sodno-draselný tetrahydrát	
+bromičnan draselný	
+bromid draselný	
+dihydrogenosforečnan draselný standard	
+dichroman draselný	
+disíran draselný	
+disiřičitan draselný	
+dusičnan draselný	
+fluorid draselný	
+fosforečnan draselný	
+kyselý ftalan draselný na pufr 4.1	
+hydrogensíran draselný	
+hydrogenuhličitan draselný	
+hydroxid draselný	
+chlorečnan draselný	
+chlorid draselný	
+chlorid draselný ultračistý	
+jodičnan draselný	
+jodid draselný	
+octan draselný	
+peroxodisíran draselný	
+síran draselný	
+terc-butoxid draselný	
+thiokyanatan draselný	
+trihydrohenšťavelan draselný trihydrát	
+uhličitan draselný	
+vinan draselný	
+bromid měďnatý	
+bromid měďný	
+bromid měďný - Me2S adukt	
+dusičnan měďnatý hydrát	
+chlorid měďnatý dihydrát	
+chlorid měďný	
+jodid měďný	
+měď	
+octan měďnatý hydrát	
+oxid měďnatý	
+síran měďnatý pentahydrát	
+triflát měďnatý	
+triflát měďný - PhMe solvát	
+uhličitan měďnatý zásaditý	
+Ag(OTf)	
+Ag(SbF6)	
+AgClO4	
+AgTf	
+AgTf4	
+dusičnan stříbrný	
+octan stříbrný	
+síran stříbrný	
+stříbro	
+síran beryllnatý	
+uhličitan beryllnatý	
+hořčík prášek	
+hořčík pro Grignarda	
+chlorid hořečnatý hexahydrát	
+chloristan hořečnatý hexahydrát	
+oxid hořečnatý	
+uhličitan hořečnatý	
+hydroxid vápenatý	
+oxid vápenatý	
+uhličitan vápenatý	
+vápník	
+bromid strontnatý hexahydrát	
+dusičnan strontnatý	
+hydroxid strontnatý oktahydrát	
+chlorid strontnatý hexahydrát	
+uhličitan strontnatý	
+dusičnan barnatý	
+hydroxid barnatý oktahydrát	
+chlorid barnatý dihydrát	
+chloristan barnatý trihydrát	
+octan barnatý trihydrát	
+síran barnatý	
+thiokyanatan barnatý trihydrát	
+uhličitan barnatý	
+bromid zinečnatý	
+dusičnan zinečnatý hexahydrát	
+chlorid zinečnatý	zinc chloride
+chloristan zinečnatý hexahydrát	
+octan zinečnatý dihydrát	
+síran zinečnatý	
+síran zinečnatý heptahydrát	
+uhličitan zinečnatý	
+zinek drátky	
+zinek prášek	
+bromid kademnatý tetrahydrát	
+dusičnan kademnatý tetrahydrát	
+chlorid kademnatý 2.5hydrát	
+chloristan kademnatý hexahydrát	
+jodid kademnatý	
+kadmium	
+kadmium ruské	
+síran kademnatý	
+uhličitan kademnatý	
+bromid rtuťnatý	
+dusičnan rtuťnatý monohydrát	
+chlorid rtuťnatý	
+chlorid rtuťný	
+jodid rtuťnatý	
+octan rtuťnatý	
+oxid rtuťnatý	
+rtuť	
+síran rtuťnatý	
+síran rtuťný	
+thiokyanatan rtuťnatý	
+dusičnan hlinitý nonahydrát	
+ethylaluminium dichlorid	
+hliník prášek	
+síran hlinitý	
+tetrahydridohlinitan litný	"LAH
+lithiumaluminiumhydride"
+trimethylaluminium	
+dusičnan galitý	
+indium	
+acetylacetonát thallný	
+bromid thallný	
+dusičnan thallný	
+ethoxid thallný	
+chlorid thallný	
+octan thallný	
+síran thallný	
+uhličitan thallný	
+3 - aminopropyl trimethoxysilan	
+bis trimethylsilyl amin	"hexamethyldisilazane
+(Me3Si)2NH
+HMDS"
+difenylchlorsilan	
+dimethylchlorsilan	
+křemík prášek	
+t-butyl dimethylchlorsilan	TDMS
+tetrakismethoxysilan	"tetramethoxysilan
+methoxid křemičitý"
+trimethylchlorsilan	"TMSCl
+trimethylsilylchlorid"
+germanium	
+trimethylgermanium bromid	
+allyltributylcín	
+cín folie (p.a.)	
+cín prášek	
+difenylcíndichlorid	
+dimethylcíndichlorid	Me2SnCl2
+hexamethyldisiloxan	
+chlorid cínatý dihydrát	
+oxid cínatý	
+oxid cíničitý	
+tetrafenylstanan	"tetrafenyl cín
+Ph4Sn"
+tetramethylcín	
+tributylcínchlorid	Bu3SnCl
+tributylfenylcín	
+trifenylcínfluorid	
+trifenylcinhydroxid	Ph3SnOH
+trimethylcínchlorid	Me3SnCl
+bromid olovnatý	
+dusičnan olovnatý	
+chlorid olovnatý	
+octan olovnatý trihydrát	
+olovo broky	
+olovo prášek	
+oxid olovičitý	
+oxid olovnato-olovičitý	
+oxid olovnatý	
+uhličitan olovnatý	
+titan	
+dusičnan zirkoničitý	
+dusičnan zirkonylu	
+síran zirkoničitý tetrahydrát	
+oxid hafničitý	
+arsen	
+oxid arsenitý	
+antimon kovový	
+oxid antimonitý	
+vinan antimonylo-draselný	
+bismut	
+dusičnan bismutitý pentahydrát	
+oxid bismutitý	
+oxid vanadičný	
+síran vanadylu hydrát	
+vanadičnan amonný	
+oxid niobičný	
+selen	
+seleničitan sodný	
+síra subl.	sulphur
+kyselina hexahydrogentellurová	
+oxid telluričitý	
+tellur	
+tellur granule	
+NH4[Cr(NH3)2(SCN)4]	
+dichroman amonný	
+dichroman draselný standard	
+chlorid chromitý hexahydrát	
+chroman amonný	
+chroman draselný	
+oxid chromový	
+síran chromnatý pentahydrát	
+heptamolybdenan amonný tetrahydrát	
+molybdenan dioxobisacetylacetonát	JT 155
+molybdenan sodný dihydrát	
+oxid molybdeničitý	
+oxid molybdenový hydrát	
+kyselina wolframová	
+oxid wolframový	
+wolframan sodný dihydrát	
+bromid manganatý hydrát	
+chlorid manganatý tetrahydrát	
+chloristan manganatý hexahydrát	
+manganistan draselný	
+oxid manganičitý aktivní	
+síran manganatý tetrahydrát	
+uhličitan manganatý	
+kyselina jodičná	
+kyselina jodistá dihydrát	
+oxid jodičný	
+acetylferrocen	
+difenylfosfinoferrocen	
+dusičnan železitý nonahydrát	
+ferrocen	
+ferrocenaldehyd	
+hexakyanoželezitan draselný	
+hexakyanoželeznatan draselný	
+chlorid železitý	
+chlorid železnatý	
+methoxyferrocenkarboxylová kyselina	
+nitroprussid sodný	
+síran amonno-železitý dodekahydrát	
+síran amonno-železnatý hexahydrát	
+síran železitý pentahydrát	
+síran železnatý heptahydrát	
+tetramethylamoniummethylferrocen iodid	
+železo prášek	
+bis (dikarbonyl cyklopentadienyl železný)	"(CpFe(CO)2)2
+Cp2Fe2(CO)4"
+acetylacetonát kobaltitý	
+bromid kobaltnatý hydrát	
+bromid tris(ethylendiamin)kobaltitý dihydrát	
+dusičnan kobaltnatý hexahydrát	
+hexakyanokobaltitan draselný	
+hexanitrokobaltitan sodný	natrium kobaltinitrit
+chlorid kobaltnatý hexahydrát	
+chloristan kobaltnatý hexahydrát	
+jodid kobaltnatý	
+síran kobaltnatý heptahydrát	
+uhličitan kobaltnatý zásaditý	
+dichloro-bis(trifenylfosfino)nikelnatý komplex	
+dusičnan nikelnatý hexahydrát	
+chlorid nikelnatý hexahydrát	
+chloristan nikelnatý hexahydrát	
+Raney nikl	
+síran nikelnatý heptahydrát	
+thiokyanatan nikelnatý hydrát	
+uhličitan nikelnatý zásaditý	
+fluorid cesný	
+chlorid cesný	
+chloristan cesný	
+bromid cesný	caesium bromide
+jodid cesný	
+uhličitan cesný	
+dusičnan cesný	
+síran cesný	
+octan cesný	
+chlorid rubidný	
+uhličitan rubidný	
+dusičnan rubidný	
+síran rubidný	
+octan rubidný	
+octan trisuranylu-sodno-zinečnatý hexahydrát	
+octan uranylu dihydrát	
+dusičnan uranylu hexahydrát	
+šťavelan neodymitý dekahydrát	
+oxid thulitý	
+oxid erbitý	
+oxid neodymitý	
+oxid gadolinitý	
+síran europitý	
+dusičnan samaritý hexahydrát	
+oxid ytritý	
+dusičnan europitý pentahydrát	
+dusičnan ytritý hexahydrát	
+oxid ytterbitý	
+dusičnan praseodymitý hexahydrát	
+oxid samaritý	
+oxid holmitý	
+oxid lutecitý	
+chlorid neodymitý	
+oxid dysprositý	
+oxid thoričitý	
+chlorid ceritý heptahydrát	
+síran ceričitý tetrahydrát	
+hexanitratoceričitan amonný	
+dusičnan lanthanitý hexahydrát	
+oxid lanthanitý	
+chlorid lanthanitý	
+hexakarbonylmolybden	
+hexakarbonylwolfram	W(CO)6
+hexakarbonylchrom	Cr(CO)6
+brompentakarbonyl rhenný	"bromopentakarbonylrhenium
+Re(CO)5Br"
+dekakarbonyl dirhenia	dirhenium dekakarbonyl
+zirkonocen dichlorid	
+amidosírová kyselina	
+aminomethansulfonová kyselina	
+aminopropansulfonová kyselina 3,1-	
+kafrosulfonová kyselina, (1R)-(-)	
+laurylsulfát sodný	dodecylsulfát sodný
+merkaptoethanol	
+merkaptoethylamin HCl, 2-	
+methansulfonylchlorid	
+methylmethylthiomethylsulfoxid	
+sulfanylová kyselina	Anilin-4-sulfonic acid
+taurin	
+tetrahydrothiofen	
+toluensulfonohydrazid	
+toluensulfonová kyselina, p-, monohydrát	p-toluensulfonic acid monohydrate
+toluensulfonová kyselina, p-, sodná sůl	
+toluensulfonylchlorid, p-	tosylchlorid
+trinitrobenzolsulfonová kyselina	
+N-benzylidenebenzensulfoamid	
+N-(4-methoxybenzyliden)-4-methylbenzensulfoamid	
+N-(4-methylbenzyliden)-4-methylbenzensulfonamid	
+N-(4-chlorobenzyliden)-4-methylbenzensulfonamid	
+alanin L alfa-	
+alanin methylester.HCl beta-	
+alanin, beta-	
+alanin, D-	
+alanin, L-	
+arginin, L-	
+asparagin, L-	
+cystein S-methyl, L-	
+cystin, L-	
+fenylalanin, D-	
+fenylalanin, DL-beta-	
+fenylalanin, L-	
+glycin	
+glycin t-Buthylester.HCl	
+glycinamid.HCl	
+glycyl-glycin	
+histidin, L-	
+hydroxyprolin, L-	
+isoleucin, L-	
+kyselina D-asparagová	
+kyselina L-asparagová	
+kyselina L-glutamová	
+leucin, L-	
+lysin.HCl, L-	
+methyl 4-aminobutanoát.HCl	
+norleucin, L-	
+prolin, DL-	
+prolin, L-	
+serin O-methyl, L-	
+serin O-tert-buthyl, L-	
+serin, DL-	
+serin, L-	
+threonin O-methyl, L	
+tryptofan, L-	
+tyrosin, L-	
+valin, D-	
+valin, L-	
+p-toluensulfonamid	tosylamide
+Boc-4-chloro-L-phenylalanine	L-Boc-Phe(4-Cl)-OH
+4-chloro-DL-phenylalanine	
+Boc-4-bromo-phenylalanine	
+m-tolylboronová kyselina	
+o-tolylboronová kyselina	
+p-tolylboronová kyselina	
+4-nitrofenylboronová kyselina	
+4-methoxyfenylboronová kyselina	
+aminoguanidin HCl	
+anhydrid kyseliny glutarové	
+guanidin hydrochlorid	
+o-methylisomočovina x H2SO4	
+triacetoxyborohydrid sodium	sodium triacetoxyborohydrid
+1,1-carbonyldiimidazole	
+pyridine-4-boronic acid, hydrate	
+furan-3-boronová kyselina	furan-3-boronic acid
+pyridine-3-boronová kyselina	pyridine-3-boronic acid
+4-chlorbenzoová kyselina	4-chlorbenzoic acid
+4-chlorofenyloctová kyselina	
+3-chlorfenyloctová kyselina	3-chlorophenylacetic acid
+2-chlorfenyloctová kyselina	
+4-(Trifluoromethyl)phenylboronic acid	
+napthalene-1-boronic acid	naftalen-1-boronová kyselina
+p-tolyltrifluoroboritan draselný	potassium p-tolyltrifluoroborate
+2,4,6-trimethylfenylboronová kyselina	2,4,6-trimethylphenylboronic acid
+chlorid kyseliny skořicové	cinnamoyl chloride
+chlorid kyseliny hydroskořicové	hydrocinnamoyl chloride
+chlorid kyseliny trimethyloctové	"trimethylacetyl chloride
+pivaloylchlorid"
+chlorid kyseliny valerové	"valeroyl chloride
+pentanoyl chloride
+chlorid kyseliny pentanové"
+ethyl trifluoroacetát	ethyl trifluoroacetate
+butylacetát	octan butylnatý
+butylacetát	octan butylnatý
+butyl akrylát	
+dibenzyl malonát	
+(-)-O,O´-dibenzoyl-L-tartarová kyselina	(-)-O,O´-dibenzoyl-L-tartaric acid
+kyselina askorbová	ascorbic acid
+(+)-O,O´-dibenzoyl-L-tartarová kyselina	(+)-O,O´-dibenzoyl-L-tartaric acid
+4-brom-fenylhydrazin HCl	
+kyanoborhydrid sodný	sodium cyanoborohydride
+Cs[Co(C2B9H11)2]	
+[(Et3NH)2B12H12]	
+4-acetylfenylboronová kyselina	4-acetylphenylboronic acid
+ferrocenboronová kyselina	ferroceneboronic acid
+tetrachlorethan, 1,1,2,2-	
+serinol	2-amino-1,3-propandiol
+krotylalkohol	"crotyl alkohol
+2-buten-1-ol"
+butylalkohol, n-	
+2,2,6,6-tetra(methyl)piperidin	
+pyridylethylamin, 2,2-	
+toluidin, p-	
+4,4´-di-tert-butyl-2,2´-bipyridyl	
+4-methylmorfolin	"4-methylmorpholine
+N-methylmorpholine
+N-methylmorfolin"
+N-Boc-guanidin	
+N-ethyldiisopropylamin	DIPEA
+N-ethyl-2-aminoacetamid	N-acetylethylendiamin
+ethylendiamin	
+jodanizol, 4-	
+chlorbenzotrifluorid, 4-	
+oktan, n-	
+ethynyltrifluortoluen, 4-	
+difenylacetylen	
+anisol	"methoxybenzen
+methylfenylether"
+diethyl-difenylmethyl-fosfonát	diethyl-difenylmethyl-fosfát
+methylpyrolidinon, N-	"methylpyrrolidinon, N-
+1-methyl-2-pyrrolidinon"
+chlorbenzen	fenylchlorid
+isopropoxid titaničitý	titanium (IV) isopropoxide
+Methylamine hydrochloride	methylamine hydrochlorid
+Dimethylthiocarbamoyl Chloride	"Dimethylthiokarbamoyl Chlorid
+Dimetiltiocarbamoil Cloreto"
+thiophosphoryl chloride	chlorid thiofosforylu
+trifenylfosfin-3,3',3''-trisulfonová kyselina trisodná sůl hydrát	triphenylphosphine-3,3',3''-trisulfonic acid trisodium salt hydrate
+tetrafenylfosfonium bromid	tetraphenylphosphonium bromide
+chlorid fosforitý	PCl3
+bis(trifenylfosforanyliden)ammonium chlorid	bis(triphenylphosphoranylidene)ammonium chloride
+diethylfosfit	diethylphosphite
+dichlorodiethylaminofosfin	dichlorodiethylaminophosphine
+difenylfosfino chlorid	diphenylphosphinic chloride
+dicyklohexylfosfin	dicyklohexylphosphine
+phenylphosphonic dichloride	phenylphosphonic dichloride
+nujol	
+hydrid sodný	sodium hydride
+sodík	"sodium metal
+natrium"
+chloristan hořečnatý hydrát	magnesium perchlorate hydrate
+škrob	starch
+draslík	potassium metal
+dowex 50WX4-100	ionex
+kyselina chloristá	perchloric acid
+jod čistý	iodine
+bromovodíková kyselina	"HBr
+hydrobromic acid"
+pentakarbonyl železa	"iron pentacarbonyl
+eisenpentakarbonyl
+iron pentacarbonyl"
+Pyrazol	Pyrazole
+Phenyl chloroformate	fenylchloroformát
+Lithium bis(trimethylsilyl)amid	LiHMDS
+lithium tetrakis(pentafluorophenyl)borate ethyl etherate	lithium tetrakis(pentafluorofenyl)borát ethyl etherát
+tetrabutylamonium hydroxid roztok	
+hexafluorofosforečnan sodný	
+fosforečnan sodný	
+jodid sodný	
+fosforečnan lithný	
+octan kademnatý	
+oxid zinečnatý	od p. Hejtmánka
+chloristan měďnatý hexahydrát	
+Reinckeho sůl	"tetrathiokyanatodiammin chromitan amonný
+NH4[Cr(NH3)2(SCN)4]"
+vanadičnan trisodný	orthovanadičnan sodný
+dusičnan ceritý hexahydrát	
+dusičnan neodimitý hexahydrát	
+dusičnan erbitý pentahydrát	
+dusičnan gadolinitý hexahydrát	
+dusičnan terbitý pentahydrát	
+dusičnan holmitý pentahydrát	
+dusičnan ytterbitý pentahydrát	
+dusičnan thulitý pentahydrát	
+dusičnan lutecitý hydrát	
+dusičnan dysprositý hydrát	
+chlorid europitý	
+dusičnan amonno-ceričitý	
+hořčík páska	
+trihydrogenfosforečnan draselný	
+hexafluorofosforečnan draselný	
+kyanatan draselný	
+šťavelan kobaltnatý	
+síran železnato-amonný	mohrova sůl
+síran železito-amonný	
+bismut standard	
+bismut standard	
+borax 2x krystalizovaný na pufr 9.18	
+hydrogenuhličitan draselný standard	
+kyselina šťavelová standard	
+tetramethylamonium chlorid standard	
+tetrabutylamonium bromid čistý	
+tetraethylamonium bromid standard	
+benzyltrimethylamoniumhydroxid roztok standard	
+tetrabutylamonium jodid standard	
+tetraethylamonium jodid standard	
+tetramethylamonium jodid standard	
+tetrabutylammonium fluorid trihydrát standard	TBAF
+tetramethylamonium bromid standard	
+tetrabutylamonium dihydrogenfosfát standard	
+urotropin	
+glycil-glycil-glycin	
+glycil-glycil-glycin	
+glycil-glycil-glycil-glycin	
+4-chlor-D,L-fenylalanin	
+glycinamid HCl	
+Boc-fenylalanin(4-Cl)-OH	
+4-bromo-DL-phenylalanine	4-bromo-DL-fenylalanine
+methyl-4-aminobutyrát HCl	
+lithium	
+triphenylarsane	trifenyl arsane
+trifenylbisman	"triphenylbismane
+Ph3Bi"
+bromid antimonitý	Antimony(III) Bromide
+tributylvinylstanan	tributylvinylcín
+(3-chloropropyl)triethoxysilan	
+trifenylcín chlorid	"trifenylstannane chloride
+Ph3SnCl"
+di-n-butylcín oxid	
+tris(trimethylsilyl)silan	
+propan-2-ol	"2-propanol
+isopropanol"
+kyselina chlorosírová	"kyselina chlorsulfonová
+chlorosulfonic acid"
+kyselina mravenčí	"formic acid
+acidum formicum"
+brom für synthese	brom
+kyselina jodovodíková	"HI
+hydriodic acid"
+kyselina fluorovodíková	"HF
+hydrogen fluoride
+hydrofluoric acid"
+kyanid sodný	"sodium cyanide
+natrium cyanatum"
+triethylsilan	
+tetrabutylammoniumchlorid	tetrabutylammonium chloride
+S-methylisothiourea hemisulfate salt	
+tetrafluoroboritá kyselina diethylether komplex	tetrafluoroboric acid diethylether complex
+dusitan stříbrný	Silver nitrate
+thiokyanát stříbrný	Silver thiocyanate
+kyanid stříbrný	Silver cyanide
+kyanát stříbrný	Silver cyanate
+ethylisocyanate	ethylisokyanát
+bromid stříbrný	Silver Bromide
+diethyldithiokarbamát stříbrný	silver diethyldithiocarbamate
+O-benzylhydroxylamine	O-benzylhydroxylamin
+Pimelic acid	"pimelová kyselina
+kyselina heptandiová"
+jodid stříbrný	Silver iodide
+chloroctan sodný	Chloroacetic acid sodium salt
+dimethylkarbonát	dimethyl carbonate
+malononitril	malononitrile
+metyl trimetylsilyl deimetylketen acetal	methyl trimethylsilyl dimethylketene acetal
+triethyl(benzyl)amonium-chlorid	"TEBA
+benzyl(triethyl)amonium-chlorid"
+phenylacetyl chloride	"fenylacetylchlorid
+chlorid kyseliny fenyloctové"
+2,2-dimethyl-1,3-dioxane-4,6-dione	"Meldrumova kyselina
+isopropyliden ester malonové kyseliny"
+ethyl formiát	"ethyl formate
+ethylester kyseliny mravenčí
+mravenčan ety"
+2,4,6-trichloranisol	2,4,6-trichloroanisole
+sodium formate	mravenčan sodný
+4-Chlorophenylboronic acid	
+4-Fluorophenylboronic acid	
+4-Bromophenylboronic acid	
+4-acetoxyskořicová kyselina	4-acetoxycinnamic acid
+2,4-dimethoxyfenylboronová kyselina	2,4-demethoxybenzeneboronic acid
+propylphosphonic acid anhydride	"cyklický anhydrid propylfosfonové kyseliny
+T3P"
+thiokyanát měďný	"copper(I) thiocyanate
+rhodanid měďný"
+kyanid měďný	copper(I) cyanide
+hexafluorokřemičitan ammoný	ammonium hexafluorosilicate
+bromotrimethylsilan	"trimethylsililbromid
+TMSBr"
+2-methyl-2-buten	
+1H-pyrazole-1-carboxamidine hydrochloride	"praxadine
+1-aminopyrazolehydrochloride"
+cyclohexene	cyklohexen
+4-allylanisole	p-allylanisol
+N,N-dimethylcarbamoyl chloride	
+Diphenylphosphine	"difenylfosfin
+HPPh2"
+(Dimethylaminomethyl)ferrocene 	
+2-Chloro-2-methylpropane	tert-Butyl chloride
+N,N-Dimethylmethyleneiminium iodide	Eschenmoserova sůl
+Thiophene-3-boronic acid	
+Tris(acetonitrile)cyclopentadienylruthenium(I) hexafluorophosphate	
+Bis(4-trifluoromethylphenyl)phosphine	
+Ethynylferrocene	
+Bis(1,5-cyclooctadien)rhodium(I)tetrafluoroborate	Bis(1,5-cyclooctadiene)rhodium(I) tetrafluoroborate
+Nitrosyl tetrafluoroborate 	Nitrosonium tetrafluoroborate
+Manganese(0) carbonyl	dekakarbonyl dimanganu
+Allylpalladium(II) chloride dimer	
+bis(tetrahydrothiophene)gold(I)   perchlorate	" 	bis(tetrahydrothiophene)gold(I) perchlorate; {Au(I)(tetrahydrothiophene)2}ClO4; [Au(tetrahydrothiophene)2](ClO4); [Au(tetrahydrothiophene)2][ClO4]; [Au(tetrahydrothiophene)2]ClO4; Au(tetrahydrothiophene)2ClO4; [Au(tht)2](ClO4)"
+Tris(acetonotrile)pentamethylcyclopentadienylruthenium (II) hexafluorophosphate	
+Pentamethylcyclopentadienyltantalum tetrachloride	Pentamethylcyclopentadienyltantalum(IV) tetrachloride
+Chloro(tetrahydrothiophene)gold(I)	chloro(tetrahydrothiophene)gold
+Chloro(tetrahydrothiophene)gold(I)	chloro(tetrahydrothiophene)gold
+1,2-Diiodoethane 	
+2-Cyclohexen-1-one	2-Cyclohexen-1-on
+(Trimethylsilyl)ethyn	"Ethynyltrimethylsilane
+(Trimethylsilyl)ethin"
+Phenylacetylene	
+2,3-dihydrofuran	
+Propiolic acid	
+1,2,3,4,5-Pentamethylcyclopentadiene 	Pentamethylcyclopentadiene
+2-Cyclopenten-1-on	2-Cyclopenten-1-one
+Cyclohexyl isocyanide	
+3,3-Dimethylbut-1-ene	
+Phenyl trifluoromethanesulfonate	
+(R)-(+)-2-Amino-3-phenyl-1-propanol 	Amino-3-phenyl-1-propanol 
+2-Thiophenecarboxaldehyde	
+2-Brom-thiophen	
+Tetrakis(triphenylphosphine)palladium(0)	
+N,O-Bis(trimethylsilyl)acetamide	
+2-Chloro-1,3-dimethylimidazolinium chloride	
+3-Buten-2-one	
+(7-Azabenzotriazol-1-yloxy) tripyrrolidinophosphonium hexafluorophosphate	
+(Benzotriazol-1-yloxy)tris(dimethylamino)phosphonium hexafluorophosphate 	BOP
+Sulfur trioxide trimethylamine complex	
+1,4-Diazabicyclo[2.2.2]octane 	
+Ferrocene Sulfonic Acid	Ferrocensulfonová kyselina
+Cyanamide	
+1-amino-1-methylmethylferrocene	
+trans-omega-Nitrostyrol	
+Chlorosulfonyl isocyanate	
+Cyanuric fluoride 	
+Borane tetrahydrofuran complex solution 	
+1,3-Propanesultone	
+Ethyl chloroformate	
+(Z)-3-Methylpent-2-en-4-yn-1-ol	
+Phenyllithium solution	
+n-Butyllithium solution	
+Cyanuric chloride	
+Spartein	
+N,N,N,N-Tetramethyldiaminomethane	
+Phosgene 	Solution
+Iodotrimethylsilane	
+Borane-methyl sulfide complex	
+N-(3-Dimethylaminopropyl)-N-ethylcarbodiimide hydrochloride	
+Methyllithium	
+Benzyl chloroformate	
+1-(3-Dimethylaminopropyl)-3-ethylcabodiimide	
+N-(3-Dimethylaminopropyl)-N-ethylcarbodiimide	
+S-(1-Oxido-2-pyridyl)-N,N,N,N-tetramethylthiuronium tetrafluoroborate	
+Grubus Catalyst 1st Generation	
+Dess-Martin periodinane	
+2-methylaminoethanol	2-(Methylamino)ethanol
+2-dimethylaminothanol	2-(dimethylamino)ethanol
+kyselina hexafluorokřemičitá	"Fluorosilicic acid
+Hexafluorosilicic acid
+Hydrogen hexafluorosilicate"
+1,4-dibrombenzen	
+N-methoxy-N-methylacetamid	Weinreb amide
+acetoxydroxamic acid	acetohydroxamová kyselina
+pyridine N-oxide	pyridin N-oxid
+8-methylquinoline N-oxide	
+4-nitrobenzoyl chloride	
+Benzene 1,4-diboronic acid	
+m-toluoyl chloride	3-methylbenzoyl chlorid
+p-toluoyl chloride	4-methylbenzoyl chloride
+o-toluoyl chloride	3-methylbenzoyl chloride
+4-chlorobenzoyl chloride	chlorbenzoylchlorid
+4-methoxybenzoyl chloride	p-anisoyl chloride
+(diacetoxyiodo)benzene	
+bis(difenylfosfinoethyl)amin hydrochlorid	
+4-bromoveratrol	 4-Bromo-1,2-dimethoxybenzene 
+4-bromo-1,2-(methylenedioxy)benzene	
+2-(methylthio)ethylamin	2-aminoethyl methyl sulfid
+18-Crown-6	
+benzamidine hydrochloride hydrate	
+acetanilinid	"N-phenylacetamid
+N-phenyl acetamid"
+piperazin	"diethylendiamin
+1,4-diazacyklohexan"
+1,1'-(1,3-butadiyn-1,4-diyl)bis-benzen	1,1'-(1,3-butadiyne-1,4-diyl)bis-benzene
+1,1'-(1,3-butadiyn-1,4-diyl)bis-ferrocen	1,1'-(1,3-butadiyne-1,4-diyl)bis-ferrocene
+poly(methylhydrosiloxan)	poly(methylhydrosiloxane)
+toluensulfinová kyselina, p-, sodná sůl	
+fluorid stříbrný	
+kyanid zlatný	
+hydrogenfluorid stříbrný	
+Chelaton 3 čistý	
+hexafluorokřemičitan stříbrný	silver hexafluorosilicate
+chloristan stříbrný	silver perchlorate
+tetrafluoroboritan stříbrný	silver tetrafluoroborate
+trifluormethansulfonát stříbrný	silver trifluoromethanesulfonate
+hexafluoroantimoničnan stříbrný	silver hexafluoroantimonate
+bis(trifluormethansulfonyl)imid stříbrný	triflimid stříbrný
+uhličitan stříbrný	silver carbonate
+toluensulfonát stříbrný, p-	tosylát stříbrný
+tetraflouorboritan tetrakis(acetonitril)mědný	
+dichloro(benzen)ruthenium(II) dimer	
+benzeneruthenium(II)chloride dimer	
+tetrakis(acetonitrile) copper(I) hexafluorophosphate	
+tercbutoxid sodný	sodium tert-butoxide
+Di-mu-chlorobis[(p-cymene)chlororuthenium(II)]	
+tetrakis(acetonitrile) copper(I) triflate	
+tetrakis(acetonitrile) copper(I) triflate	
+tetrakis(acetonitrile) copper(I) triflate	
+bis(difenylfosfino)ferrocen,1,1´-	
+FcCO2Bt	
+Fc(CO2Me)(CO2H)	
+methylester kyseliny ferrocenkarboxylové	FcCO2Me
+Ferrocendikarbaldehyd	"ferrocendialdehyd
+Fc(CHO)2"
+Ferrocenkarboxylová kyselina	Fc(CO2H)
+(difenylfosfino)ferrocen	
+dimethylester kyseliny ferrocendikarboxylové	Fc(CO2Me)2
+ferrocendikarboxylová kyselina	Fc(CO2H)2
+bromferrocen	
+dimethylsulfoxid deuterovaný	
+kyselina chlorovodíková v methanolu	HCl (MeOH)
+diacetylferrocen	Fc(CHO)2
+trimethyl(ferocenylmethyl)amonium jodid	
+chloracetylchlorid	chloroacetyl chloride
+2-chlorbenzoylchlorid	2-chlorobenzoyl chloride
+tert-butylacetylchlorid	tert-butylacetyl chloride
+dimethylsulfát	dimethylsulfate
+chlorid hlinitý	aluminium chloride
+2-brommesitylen	2-bromomesitylene
+4-brombenzylbromid	4-bromobenzylbromide
+benzensulfinová kyselina	benzenesulfinic acid
+4-ethynyltoluene	p-methylphenylacetylene
+1-bromopyrene	
+1,3-dimercaptopropan	1,3-propanedithiol
+Cyclopentadienyliron dicarbonyl iodide	CpFe(CO)2I
+Ethyl [bis(2,2,2-trifluoroethoxy)phosphinyl]acetate	
+sulfolane	"tetramethylene sulfone
+tetrahydrothiophene 1,1-dioxide"
+dichloro(1,5-cyclooctadiene)ruthenium(II), polymer	[RuCl2(cod)]n
+2,4,6-trimethoxybenzoová kyselina	2.4.6-trimethoxybenzoic acid
+2,4,6-trimethylbenzoylchlorid	2,4,6-trimethylbenzoyl chloride
+2-bromnaftalen	2-bromonaphthalene
+acetylchlorid	"chlorid kys. octové
+acetyl chlorid
+AcCl"
+4-bromobenzaldehyde	
+1-bromo-4-fluorobenzene	
+(Methylcarbonylsulfamoyl)triethylammoinium hydroxide inner salt	"Burgess reagent
+1-methoxy-N-triethylammoniosulfonyl-methanimidate"
+phenylcyclic-triolborate potassium salt	
+(4-biphenyl)cyclic-triolborate potassium salt	
+(4-fluorophenyl)cyclic-triolboratepotassium salt	
+(4-methylphenyl)cyclic-triolborate potassium salt	
+bromid nikelnatý hydrát	nickel bromide hydrate
+bromid nikelnatý ethylene glykol dimethyl ether komplex	nickel bromide ethylene glycol dimethyl ether complex
+methansulfinát sodný	"methanesulfinic acid sodium salt
+sodium methanesulfinate"
+4-acetylbenzonitril	
+potassium thioacetate	thiooctan draselný
+sodium dimethyldithiocarbamate hydrate	dimethyldithiokarbamát sodný dihydrát
+trichloromethyl chloroformate	difosgen
+sodium dicyanamide	dikyanamid sodný
+butyl vinylether	"butylvinylether
+butylvinyl ether"
+tributyltin hydride	"Tributylstannan
+Tributylstannane
+tributylcínhydrid"
+N-boc-ethylendiamin	
+1,2-dibrombenzen	1,2-dibromobenzene
+kyselina methansulfonová	Methanesulfonic acid
+Jodid zinečnatý	Zinc iodide
+dicobalt octacarbonyl	"dikobalt oktakarbonyl
+Co2(CO)8"
+acetohydrazid	acetylhydrazin
+N,O-dimethylhydroxylamine hydrochloride	MeONHMe.HCl
+sodium tetrakis[3.5-bis(frifluoromethyl)phenyl]borate	NaBARF
+2,4,6-triisopropylbenzenesulfonyl chloride	trisyl chloride
+uhličitan draselný seskvihydrát	potassium carbonate sesquihydrate
+thallium hexafluorophosphate	hexafluorofosforečnan thallný
+thallium trifluoromethansulfonate	"thallium triflate
+triflát thallný"
+palladium chloride	chlorid palladnatý
+oxid měďný	copper(I) oxide
+4-Bromoacetanilid	N-acetyl-4-bromoaniline
+3-mercaptopropionic acid	3-merkaptopropionová kyselina
+3-phosphonopropionic acid	3-fosfonopropionová kyselina
+Bis(2,4,6-trimethylphenyl)phosphorous chloride	bismesitylfosfin chlorid
+Sodium bis(trimethylsilyl)amide	NaHMDS
+tetrabutylammonium fluoride solution	TBAF roztok
+2-nitrobenzoyl chloride	
+3-nitrobenzoyl chlorid	
+pyridin-2-karbonylchlorid hydrochlorid	pyridine-2-carbonyl chloride hydrochloride
+2-furoylchlorid	2-furoylchloride
+pyridin-3-karbonylchlorid hydrochlorid	nicotinoyl chloride hydrochloride
+pyridin-4-karbonylchlorid hydrochlorid	isonicotinoyl cloride hydrochloride
+2-theonyl chloride	
+Di-u-mesylbis[2'(amino-N)[1,1'-biphenyl]-2-yl-C]dipalladium(II)	Buchwald 3rd Generation Palladacycle
+Di-u-chlorobis[2'(amino-N)[1,1'-biphenyl]-2-yl-C]dipalladium(II)	Buchwald 2nd generation palladacycle
+Diphenyl phosphoryl azide	"DPPA
+(PhO)2P(O)N3"
+N,N-dimethylglycin	(dimethylamino)acetic acid
+kyselina (methylthio)octová	(methylthio)acetic acid
+trimethylaniline	mesitylamine
+2,6-diisopropylaniline	
+N,N´-dimethylethylenediamine	"MeNHCH2CH2NHMe
+N,N´-dimethylaminoethylendiamine"
+kys. chlorovodíková v dioxanu	
+Benzylmethylsulfid	Benzyl methyl sulfide
+2-aminobifenyl	
+Palladium(II) acetylacetonate	Pd(acac)2
+4-methoxycinnamic acid	4-methoxyskořicová kyselina
+trans-2-[4-(trifluormethyl)phenyl)vinylboronic acid	
+4-hydroxyphenylboronic acid	
+4-acetamidophenylboronic acid	
+2-thienylboronic acid	Thiophen-2-boronic acid
+2-phenylethylamine hydrochloride	PhCH2CH2NH2.HCl
+furan-2-boronová kyselina	furane-2-boronic acid
+Trifluormethansulfonová kyselina	"kyselina trifluormethansulfonová
+trifluormethanesulfonic acid"
+N-(trifenylfosforanyliden)-1H-benzotriazol-1-methanamin	
+1,3-di-boc-2-(trifluormethylsulfonyl)guanidin	
+1-(methansulfonyl)-1H-benzotriazol	
+2,2-dimethoxyacetaldehyde solution	
+chlorid ruthenitý hydrát	ruthenium(III) chloride hydrate
+4-fluorotoluene	
+2-acetamidophenylboronic acid	
+2-cyanophenylboronic acid	
+Aminoacetaldehyde dimethylacetal	2,2-dimethoxyethylamine
+(S)-(+)-Pyrrolidinemethanol	L-Prolinol
+4-bromobenzoyl chloride	
+4-cyanobenzoyl chloride	
+PEPPSI-SIPr catalyst	
+PEPPSI-IPr catalyst	
+Gold(III) chloride hydrate	kyselina zlatitá
+4-fluorobenzoyl chloride	
+Bis(2-methylallyl)(1,5-cyclooctadiene)ruthenium(II)	
+Bis(diisopropylamino)chlorophosphine	
+Bis(dimethylamino)chlorophosphine	
+Methanesulfonic anhydride	Mesylanhydrid
+2-Bromophenylboronic acid	
+2,2´-dibromobiphenyl	2,2´-dibrombifenyl
+sulfanilamide	p-aminobenzenesulfonamide
+1-propynylmagnesium bromide solution	
+Boc-Val-OH	"Boc-L-valine
+N-(tert-Butoxycarbonyl)-L-valine"
+tris(dibenzylideneacetone)dipalladium(0)	
+Palladium(II) trifluoracetate	
+(2-chloroethyl)triphenylphosphonium bromide	
+propargylamine	
+selenokyanathan draselný	
+Chloro(1,5-cyclooctadiene)(pentamethylcyclopentadienyl)ruthenium(II)	Cp*Ru(cod)Cl
+1-Phenyl-1,3-butanedione	
+Benzylazide solution	
+Propargyl bromide solution	
+diphenyliodonium hexafluorophosphate	Ph2I PF6
+diphenyliodonium chloride	
+1,6-dibromohexane	Br(CH2)6Br
+trimethyloxonium tetrafluoroborate	"Meerwein´s reagent
+Meerwein´s salt"
+2-ethynyl-1,3,5-trimethylbenzene	mesitylacetylene
+p-toluensulfonyl cyanide	TosylcyanideTsCN
+m-tolualdehyd	m-tolualdehyde
+o-tolualdehyd	o-tolualdehyde
+4-acetylbenzaldehyd	4-acetylbenzaldehyde
+4-nitrobenzaldehyd	4-nitrobenzaldehyde
+4-chlorbenzaldehyd	4-chlorobenzaldehyde
+benzoylchlorid	benzoylchloride
+4-(trifluormethyl)benzaldehyd	"4-(trifluormethyl)benzaldehyde
+trifluormethylbenzaldehyd,4-"
+3-phenyl-1-propyne	"prop-2-ynylbenzen
+benzylacetylen"
+butyl-1-ol	3-butyn-1-ol
+hexafluorofosforečnan stříbrný	"AgPF6
+silver(I) hexafluorophosphate"
+1-amino-3-butyne	butynylamine
+(Acetonitrile)[(2-biphenyl)di-tert-butylphosphine]gold(I) hexafluoroantimonate 	JohnPhosAu(MeCN) SbF6
+Hexamethyldisilan	Si2Me6
+4-(tert-tertbutyldimethylsiloxy)phenylboronic acid	4-TBDMSOC6H4B(OH)2
+hexafluoroantimoničnan draselný	potassium hexafluoroantimonate
+chlorocarbonylgold(I)	
+Lithium diisopropylamide solution	
+Azidobenzene	Azidobenzen
+2-azidotoluene	2-tolylazid
+4-azidotoluene solution	4-Tolylazid
+3-azidotoluen	3-tolylazid
+chlordicyklohexylboran	chlorodicyclohexylborane
+4-tert-butylfenylboronová kyselina	4-tert-butylphenylboronic acid
+4-tert-butylbenzoylchlorid	
+chlorovodík	
+tris(tert-butyl)fosfin	"tri-tert-butylfosfin
+tri-tert-butylphosphine"
+cyklohexankarbonitril	cyclohexanecarbonitrile
+trimethylfosfin	trimethylphosphine
+Dimesitylfluoroborane	
+benzamid	"benzoyl amide
+benzamide"
+chlorido[1,3-bis(2,6-diisopropylfenyl)imidazol-2-yliden]zlatný komplex	chloro[1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene]gold(I) 
+Bis(pinacolato)diboron	
+methoxyphenylboronic acid MIDA ester	
+methoxyphenylboronic acid MIDA ester	
+Chloro(dimethylsulfide)gold(I)	[AuCl(SMe2)]
+Diisopropylcarbodiimide	DIC
+vinylmagnesiumbromide	Vinylmagnesiumbromid solution
+N-(Bromomethyl)phthalimide	N-Bromomethylftalimid
+N-Methoxymethyl-N-(trimethylsilyl)benzylamine	MeOCH2N(CH2TMS)Bn
+kyselina difenylfosfinooctová	2-(diphenylphosphino)acetic acid
+chlorodi(2-furyl)phosphine	Difurylchlorfosfin
+2,6-dimethylphenyl isocyanide	2,6-dimethylphenyl isonitrile
+p-toluenesulfonylmethyl isocyanide	"p-toluenesulfonylmethyl isonitrile
+TosMIC
+TsCH2NC"
+1,3-Di-p-tolylcarbodiimide	
+2-bromophenylacetic acid	2-bromofenyloctová kyselina
+2-bromobenzoic acid	2-Bromobenzoová kyselina
+3-bromobenzoic acid	3-bromobenzoová kyselina
+8-Bromo-2´-deoxyguanosine	
+Samarium	Samarium chips
+Nickel(II) chloride ethylene glycol dimethyl ether	chlorid nikelnatý glyme
+Lawesson reagent	"2,4-bis(4-methoxyphenyl)-dithioxo-1,3,2,4-dithiadiphosphetane
+2,4-Bis-(4-methoxyphenyl-1,3-dithia-2,4-diphosphetane 2,4-disulfide"
+Benzyl isocyanide	Benzyl isonitril
+L-cysteine hydrochloride monohydrate	
+Di-p-tolylamine	
+chlorid zinečnatý roztok	zinc chloride solution
+silver perrhenate	rhenistan stříbrný
+Cyanogen bromide	"Bromkyan
+BrCN"
+o-phenylene phosphorochloridite	
+4-methylthioaniline	
+Benzocaine	4-aminoethylbenzoate
+4-aminobenzonitrile	"4-cyanoanilin
+4-aminobenzonitril"
+chloristan thallný	"thallium(1+) perchlorate
+thallous perchlorate"
+chloristan thallný	"thallium(1+) perchlorate
+thallous perchlorate"
+D-(+)-Biotin	
+Tris(ethylenediamine)cobalt(III) chloride dihydrate	[Co(en)3]Cl2 * 2 H2O
+trimethylsilyl cyanide	TMSCN
+ethylene oxide solution	oxirane
+thionyl chlorid	"chlorid thionylu
+thionyl chloride"
+diethyl chlorophosphite	
+ethyl jodacetát	ethyl iodacetate
+1-[(trimethylsilyl)methyl]benzotriazol	trimethylsilylmethylbenzotriazol
+2,6-lutidin	2,6-dimethylpyridin
+chlorid gallitý	gallium chloride
+trifluoromethanesulfonic anhydride	"anhydrid kyseliny trifluormethansulfonové
+triflicanhydrid"
+1,3,5-triaza-7-fosfaadamantane	PTA
+(2-biphenyl)di-tert-butylphosphine	JohnPhos
+2-cyclohepten-1-on	
+borane-dimethylsulfide complex	
+2,4,6-trioxa-1,3,5,7-tetramethyl-8-phosphaadamantan	
+benzoxazole	
+aminoferrocene	ferrocenylamine
+kofola	
+tetracarbonyl(1,5-cyclooctadiene)tungsten	
+tert-butyllithium	terc-butyllithium
+sec-butyllithium	sek-butyllithium
+THF-D8	"deuterated THF
+tetrahydrofurane-D8"
+2-methyl-3-butyn-2-amine	
+methyltriflate	methyltriflát
+azidotrimethylsilane	trimethylsilylazide
+2-ethoxy-1-ethoxycarbonyl-1,2-dihydroquinoline	"2-ethoxy-1-ethoxycarbonyl-1,2-dihydrochinon
+EEDQ"
+methylmagnesium bromide solution	methylmagnesium bromid roztok
+cis-1,2-diaminocyklohexane	
+(1R,2R)-(-)-1,2-diaminocyklohexane	
+(1S,2S)-(+)-1,2-diaminocyclohexane	
+1,1´-bis(dichlorophosphino)ferrocene	1,1´-bis(dichlorfosfino)ferrocen
+2-chloro-1,3,2-dioxaphospholane	
+chloro(tri-tert-butylphosphine)gold(I)	
+chloro(trimethylphosphine)gold(I)	
+tetrakis(acetonitrile)palladium(II) tetrafluoroborate	
+dimethylcyanamide	
+Chloro[2-(dicyclohexylphosphino)biphenyl]gold(I)	
+(Tricyclohexylphosphine)gold(I) chloride	
+N,N-dimethylakrylamid	"N,N-dimethylacrylamide
+N,N-dimethylprop-2-enamid"
+tetrafluoroboritan draselný	potasium tetrafluoroborate
+formanilid	formanilide
+chloro(1,5-cyclooctadiene)copper(I) dimer	komplex chlorido(1,5-cyklooktadien)měďný idmer
+kyselina hexafluoroantimoničná	fluoroantimonic acid
+dimethylsulfid	
+trifenylfosfinsulfid	triphenylphosphine sulfide
+triphenyl phosphate	trifenyl fosfát
+Di-u-chlorobis[1-[(1R)-1-(dimethylamino)ethyl]-2-naphthyl-C,N]dipalladium(II)	
